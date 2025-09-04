@@ -1,122 +1,122 @@
 [
   {
     "id": "1",
-    "title": "Reminder 1",
+    "reminder 1": "Pomodoro break",
     "description": "Work 25 min then 5 min break",
     "intervalMinutes": 25
   },
   {
     "id": "2",
-    "title": "Reminder 2",
+    "reminder 2": "Stretch break",
     "description": "Stand up and stretch for 5 minutes",
     "intervalMinutes": 50
   },
   {
     "id": "3",
-    "title": "Reminder 3",
+    "reminder 3": "Hydration reminder",
     "description": "Drink a glass of water",
     "intervalMinutes": 60
   },
   {
     "id": "4",
-    "title": "Reminder 4",
+    "reminder 4": "Eye exercise",
     "description": "Look away from screen for 20 seconds",
     "intervalMinutes": 45
   },
   {
     "id": "5",
-    "title": "Reminder 5",
+    "reminder 5": "Snack break",
     "description": "Eat a light, healthy snack",
     "intervalMinutes": 90
   },
   {
     "id": "6",
-    "title": "Reminder 6",
+    "reminder 6": "Walk break",
     "description": "Walk around for 10 minutes",
     "intervalMinutes": 120
   },
   {
     "id": "7",
-    "title": "Reminder 7",
+    "reminder 7": "Deep breathing",
     "description": "Practice deep breathing for relaxation",
     "intervalMinutes": 75
   },
   {
     "id": "8",
-    "title": "Reminder 8",
+    "reminder 8": "Posture check",
     "description": "Sit upright, adjust chair and desk",
     "intervalMinutes": 40
   },
   {
     "id": "9",
-    "title": "Reminder 9",
+    "reminder 9": "Journal note",
     "description": "Write down quick notes on progress",
     "intervalMinutes": 100
   },
   {
     "id": "10",
-    "title": "Reminder 10",
+    "reminder 10": "Meditation break",
     "description": "Spend 5 minutes meditating or clearing mind",
     "intervalMinutes": 150
   },
   {
     "id": "11",
-    "title": "Reminder 11",
-    "description": "Do 10 squats or light exercise",
-    "intervalMinutes": 35
+    "reminder 11": "Quick workout",
+    "description": "Do a set of jumping jacks or push-ups",
+    "intervalMinutes": 85
   },
   {
     "id": "12",
-    "title": "Reminder 12",
-    "description": "Review your to-do list and adjust if needed",
-    "intervalMinutes": 80
-  },
-  {
-    "id": "13",
-    "title": "Reminder 13",
-    "description": "Send a quick message or check-in with a colleague",
-    "intervalMinutes": 110
-  },
-  {
-    "id": "14",
-    "title": "Reminder 14",
-    "description": "Clean or organize a small part of your workspace",
-    "intervalMinutes": 95
-  },
-  {
-    "id": "15",
-    "title": "Reminder 15",
-    "description": "Do a quick neck and shoulder roll",
+    "reminder 12": "Mindful minute",
+    "description": "Pause and focus on your breath for 60 seconds",
     "intervalMinutes": 30
   },
   {
-    "id": "16",
-    "title": "Reminder 16",
-    "description": "Step outside for a few minutes of fresh air",
-    "intervalMinutes": 140
+    "id": "13",
+    "reminder 13 ": "Water plants",
+    "description": "Take a moment to care for your desk plants",
+    "intervalMinutes": 95
   },
   {
-    "id": "17",
-    "title": "Reminder 17",
-    "description": "Practice gratitude — think of 3 things you're grateful for",
-    "intervalMinutes": 160
+    "id": "14",
+    "reminder 14": "Inbox check",
+    "description": "Check and respond to important emails",
+    "intervalMinutes": 110
   },
   {
-    "id": "18",
-    "title": "Reminder 18",
-    "description": "Check your calendar for upcoming events or tasks",
+    "id": "15",
+    "reminder 15": "Desk clean-up",
+    "description": "Tidy up your immediate workspace",
     "intervalMinutes": 70
   },
   {
+    "id": "16",
+    "reminder 16": "Motivational quote",
+    "description": "Read or write a short motivational quote",
+    "intervalMinutes": 65
+  },
+  {
+    "id": "17",
+    "reminder 17": "Check calendar",
+    "description": "Review upcoming meetings or deadlines",
+    "intervalMinutes": 80
+  },
+  {
+    "id": "18",
+    "reminder 18": "Gratitude note",
+    "description": "Write down one thing you're grateful for",
+    "intervalMinutes": 115
+  },
+  {
     "id": "19",
-    "title": "Reminder 19",
-    "description": "Take a few moments to reflect on your goals",
-    "intervalMinutes": 130
+    "reminder 19": "Silent pause",
+    "description": "Sit in silence for a couple of minutes",
+    "intervalMinutes": 125
   },
   {
     "id": "20",
-    "title": "Reminder 20",
-    "description": "Listen to a favorite song or relaxing music",
-    "intervalMinutes": 115
+    "reminder 20": "Music break",
+    "description": "Listen to a favorite song or calming music",
+    "intervalMinutes": 135
   }
 ]
