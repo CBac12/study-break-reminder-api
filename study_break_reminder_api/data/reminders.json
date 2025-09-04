@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "title": "Pomodoro break",
+    "description": "Work 25 min then 5 min break",
+    "intervalMinutes": 25
+  },
+  {
+    "id": "2",
+    "title": "Stretch break",
+    "description": "Stand up and stretch for 5 minutes",
+    "intervalMinutes": 50
+  },
+  {
+    "id": "3",
+    "title": "Hydration reminder",
+    "description": "Drink a glass of water",
+    "intervalMinutes": 60
+  },
+  {
+    "id": "4",
+    "title": "Eye exercise",
+    "description": "Look away from screen for 20 seconds",
+    "intervalMinutes": 45
+  },
+  {
+    "id": "5",
+    "title": "Snack break",
+    "description": "Eat a light, healthy snack",
+    "intervalMinutes": 90
+  },
+  {
+    "id": "6",
+    "title": "Walk break",
+    "description": "Walk around for 10 minutes",
+    "intervalMinutes": 120
+  },
+  {
+    "id": "7",
+    "title": "Deep breathing",
+    "description": "Practice deep breathing for relaxation",
+    "intervalMinutes": 75
+  },
+  {
+    "id": "8",
+    "title": "Posture check",
+    "description": "Sit upright, adjust chair and desk",
+    "intervalMinutes": 40
+  },
+  {
+    "id": "9",
+    "title": "Journal note",
+    "description": "Write down quick notes on progress",
+    "intervalMinutes": 100
+  },
+  {
+    "id": "10",
+    "title": "Meditation break",
+    "description": "Spend 5 minutes meditating or clearing mind",
+    "intervalMinutes": 150
+  }
+]
+
+
+
+
