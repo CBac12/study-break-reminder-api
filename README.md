@@ -3,10 +3,10 @@
    A simple API that provides study break reminders to help students stay healthy and productive while studying, improving focus, reducing fatigue, and promoting better learning outcomes.
 
 # Features
-   •Supports query parameter `type` to filter reminders (`stretch`, `hydrate`, `relax`, `misc`).
-   •Supports query parameter interval to send reminders at customizable time intervals (e.g., every 30 minutes, 1 hour, etc.).
-   •Smart scheduling – reminders only trigger during defined study hours (e.g., 9 AM – 6 PM).
-   •Snooze option – temporarily delay a reminder if the user is in the middle of something.
+   1. Supports query parameter `type` to filter reminders (`stretch`, `hydrate`, `relax`, `misc`).
+   2. Supports query parameter interval to send reminders at customizable time intervals (e.g., every 30 minutes, 1 hour, etc.).
+   3. Smart scheduling – reminders only trigger during defined study hours (e.g., 9 AM – 6 PM).
+   4. Snooze option – temporarily delay a reminder if the user is in the middle of something.
 
 # Installation
    1. Install Node.js from the web.
