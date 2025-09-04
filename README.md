@@ -1,18 +1,18 @@
 # Study Break Reminder API
 
-A simple API that provides study break reminders to help students stay healthy and productive while studying, improving focus, reducing fatigue, and promoting better learning outcomes.
+   A simple API that provides study break reminders to help students stay healthy and productive while studying, improving focus, reducing fatigue, and promoting better learning outcomes.
 
 # Features
-- Supports query parameter `type` to filter reminders (`stretch`, `hydrate`, `relax`, `misc`).
-- Supports query parameter interval to send reminders at customizable time intervals (e.g., every 30 minutes, 1 hour, etc.).
--Smart scheduling – reminders only trigger during defined study hours (e.g., 9 AM – 6 PM).
--Snooze option – temporarily delay a reminder if the user is in the middle of something.
+   •Supports query parameter `type` to filter reminders (`stretch`, `hydrate`, `relax`, `misc`).
+   •Supports query parameter interval to send reminders at customizable time intervals (e.g., every 30 minutes, 1 hour, etc.).
+   •Smart scheduling – reminders only trigger during defined study hours (e.g., 9 AM – 6 PM).
+   •Snooze option – temporarily delay a reminder if the user is in the middle of something.
 
 # Installation
-1. Install Node.js from the web.
-2. "ADD TO PATH" method for installing Node.js automatically binds the extensions to other applications like VSCode.
-3. Administrator Windows Powershell will automatically show up after the installation of Node.js, ensuring complete extensions/packages from the application when using various coding app platforms.
-4. In VSCode or other code platforms, using different commands from Node.js can be implemented in terminals/bash.
+   1. Install Node.js from the web.
+   2. "ADD TO PATH" method for installing Node.js automatically binds the extensions to other applications like VSCode.
+   3. Administrator Windows Powershell will automatically show up after the installation of Node.js, ensuring complete extensions/packages from the application          when using various coding app platforms.
+   4. In VSCode or other code platforms, using different commands from Node.js can be implemented in terminals/bash.
 
 # Example:
    1. Using terminals/bash in VSCode, input "npm run dev".Therefore, the program will provide the local host address.
