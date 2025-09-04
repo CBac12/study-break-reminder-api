@@ -5,6 +5,7 @@ A simple API that provides randomized study break reminders to help students sta
 # Features
 - Returns random reminders such as stretching, hydration, relaxation, or miscellaneous activities.
 - Supports query parameter `type` to filter reminders (`stretch`, `hydrate`, `relax`, `misc`).
+- Supports query parameter interval to send reminders at customizable time intervals (e.g., every 30 minutes, 1 hour, etc.).
 
 # Installation
 1. Clone the repository:
