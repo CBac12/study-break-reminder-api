@@ -21,7 +21,7 @@
    4. Copy the local host address together with the JSON file (http://localhost:3000/reminders/<id>).
    5. Send the request using the GET method.
    6. The user will receive a response based on the code within the JavaScript.
-   RESPONSE:
+   7. RESPONSE:
         {
     "id": "1",
     "reminder 1": "Pomodoro break",
