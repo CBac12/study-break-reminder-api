@@ -10,9 +10,10 @@
 
 # Installation
    1. Install Node.js from the web.
-   2. "ADD TO PATH" method for installing Node.js automatically binds the extensions to other applications like VSCode.
-   3. Administrator Windows Powershell will automatically show up after the installation of Node.js, ensuring complete extensions/packages from the application          when using various coding app platforms.
-   4. In VSCode or other code platforms, using different commands from Node.js can be implemented in terminals/bash.
+   2. Choose the LTS version of the application as it is recommended to all users.
+   3. "ADD TO PATH" method for installing Node.js automatically binds the extensions to other applications like VSCode.
+   4. Administrator Windows Powershell will automatically show up after the installation of Node.js, ensuring complete extensions/packages from the application          when using various coding app platforms.
+   5. In VSCode or other code platforms, using different commands from Node.js can be implemented in terminals/bash.
 
 # Example:
    1. Using terminals/bash in VSCode, input "npm run dev".Therefore, the program will provide the local host address.
