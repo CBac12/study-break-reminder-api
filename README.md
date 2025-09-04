@@ -1,6 +1,6 @@
 # Study Break Reminder API
 
-A simple API that provides randomized study break reminders to help students stay healthy and productive while studying.
+A simple API that provides randomized study break reminders to help students stay healthy and productive while studying, improving focus, reducing fatigue, and promoting better learning outcomes.
 
 # Features
 - Returns random reminders such as stretching, hydration, relaxation, or miscellaneous activities.
